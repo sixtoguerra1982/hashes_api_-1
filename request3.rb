@@ -24,7 +24,7 @@ data = request('https://jsonplaceholder.typicode.com/photos')
 #     photos.push element["url"]
 # end
 
-photos = data.map{|x| x['url']}
+photos = data.map{|x| x['url']}#
 
 # print photos
 
