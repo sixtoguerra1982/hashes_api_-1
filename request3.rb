@@ -36,5 +36,8 @@ File.write('output.html',html)
 
 # hacer el request y obtendremos un array
 # hacer un arreglo con todas las fotos
+# Crear archivo a partir de un strings
 
-#
+# Si bien la página funciona se deja como ejercicio agregar el resto del html, puesto que el
+# documento no tiene doctype, ni head, ni body. Se deja como tarea propuesta agregar la
+# información para generar de forma automática una página web válida.
